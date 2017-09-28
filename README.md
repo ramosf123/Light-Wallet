@@ -1,4 +1,4 @@
-# LightWallet
+# Fermion LightWallet
 
 A minimal ethereum javascript wallet.
 
